@@ -30,4 +30,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/nodo:0.1
-```
+
